@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.792fbeeb.css",
+    "main.js": "./static/js/main.b28a168d.js",
+    "static/js/964.fb138fee.chunk.js": "./static/js/964.fb138fee.chunk.js",
+    "static/js/96.c3923bc2.chunk.js": "./static/js/96.c3923bc2.chunk.js",
+    "static/js/562.c627b5b1.chunk.js": "./static/js/562.c627b5b1.chunk.js",
+    "static/js/957.20170590.chunk.js": "./static/js/957.20170590.chunk.js",
+    "static/js/149.23bb5da9.chunk.js": "./static/js/149.23bb5da9.chunk.js",
+    "static/js/623.4d0a210e.chunk.js": "./static/js/623.4d0a210e.chunk.js",
+    "static/js/73.a32a5693.chunk.js": "./static/js/73.a32a5693.chunk.js",
+    "static/js/786.cec88666.chunk.js": "./static/js/786.cec88666.chunk.js",
+    "static/media/Timeline-bg-video.mp4": "./static/media/Timeline-bg-video.f58b4caf6db0107db48c.mp4",
+    "static/media/Untitled-design.png": "./static/media/Untitled-design.82610a0e7d092de66f99.png",
+    "static/media/hero-theater-portrait.png": "./static/media/hero-theater-portrait.d606eeb96f59abff436a.png",
+    "static/media/hero-theater.png": "./static/media/hero-theater.d606eeb96f59abff436a.png",
+    "static/media/campus-retro.jpg": "./static/media/campus-retro.526f897a4cd8b81fd1c6.jpg",
+    "static/media/himank-tripathi.jpg": "./static/media/himank-tripathi.6f2cc77a50e64d032672.jpg",
+    "static/media/dr-varuna-srinivasan.jpg": "./static/media/dr-varuna-srinivasan.cc2a5b9ead09ce518ab8.jpg",
+    "static/media/prachi-pratap.jpg": "./static/media/prachi-pratap.7b35e4f42b8581a26315.jpg",
+    "static/media/neha-singh.jpg": "./static/media/neha-singh.8d59d43e0813109089bb.jpg",
+    "static/media/poornima-seetharaman.jpg": "./static/media/poornima-seetharaman.f191731e59bf32d02fcc.jpg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.792fbeeb.css",
+    "static/js/main.b28a168d.js"
+  ]
+}
